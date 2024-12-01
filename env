@@ -1,5 +1,5 @@
 BATTLE_BOT=safest
-WEBSOCKET_URI=wss://localhost.psim.us/
+WEBSOCKET_URI=wss://localhost:2746/
 PS_USERNAME=somsak
 PS_PASSWORD=somsak1
 BOT_MODE=SEARCH_LADDER
