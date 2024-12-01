@@ -1,5 +1,5 @@
 BATTLE_BOT=safest
-WEBSOCKET_URI=wss://sim3.psim.us/showdown/websocket
+WEBSOCKET_URI=wss://localhost.psim.us/
 PS_USERNAME=somsak
 PS_PASSWORD=somsak1
 BOT_MODE=SEARCH_LADDER
